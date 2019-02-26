@@ -14,5 +14,8 @@ public class Main {
             int value = scanner.nextInt();
             insertUtil.insert(value);
         }
+        insertUtil.printPreOrder();
+        insertUtil.printInOrder();
+        insertUtil.printPostOrder();
     }
 }
