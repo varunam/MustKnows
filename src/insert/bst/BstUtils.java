@@ -2,12 +2,12 @@ package insert.bst;
 
 import insert.Node;
 
-public class InsertUtil {
+public class BstUtils {
 
     // root of BST
     Node root;
 
-    public InsertUtil() {
+    public BstUtils() {
         root = null;
     }
 
@@ -54,6 +54,7 @@ public class InsertUtil {
         }
     }
 
+    //method to insert node to the tree
     private Node insertNode(Node root, int key) {
 
         //if the tree is empty, create root
@@ -69,5 +70,28 @@ public class InsertUtil {
 
         //returning the root (unchanged)
         return root;
+    }
+
+    //method to search for a key
+    public boolean searchKey(int key) {
+        Node foundNode = searchKey(root, key);
+        return foundNode != null;
+    }
+
+    private Node searchKey(Node root, int key) {
+        if (root != null) {
+
+            //return root if key is found
+            if (root.key == key)
+                return root;
+
+            //recurse down if key isn't found
+            if (root.key < key) {
+                return searchKey(root.right, key);
+            } else {
+                return searchKey(root.left, key);
+            }
+        } else
+            return null;
     }
 }
