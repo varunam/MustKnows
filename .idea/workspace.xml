@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/insert/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insert/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/insert/bst/BstUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insert/bst/BstUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/insert/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/trees/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="165">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,32 +27,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BstUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/insert/bst/BstUtils.java">
+      <file leaf-file-name="QuadraticEquation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+            <state relative-caret-position="78">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BstUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
               <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="method#printInOrder#0;class#InsertUtil#0" />
-                <element signature="method#printPreOrder#0;class#InsertUtil#0" />
-                <element signature="method#printPostOrder#0;class#InsertUtil#0" />
-                <element signature="method#printPostOrder#1;class#InsertUtil#0" />
-                <element signature="method#printPreOrder#1;class#InsertUtil#0" />
-                <element signature="method#printInorder#0;class#InsertUtil#0" />
-                <element signature="method#insertNode#0;class#InsertUtil#0" />
                 <element signature="method#searchKey#0;class#BstUtils#0" />
                 <element signature="method#searchKey#1;class#BstUtils#0" />
-                <element signature="e#2377#2378#0" expanded="true" />
-                <element signature="e#2404#2405#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/insert/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/trees/Node.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
@@ -82,8 +80,10 @@
         <option value="$PROJECT_DIR$/src/bst/InsertUtil.java" />
         <option value="$PROJECT_DIR$/src/insert/bst/InsertUtil.java" />
         <option value="$PROJECT_DIR$/src/insert/bst/SearchUtil.java" />
-        <option value="$PROJECT_DIR$/src/insert/Main.java" />
         <option value="$PROJECT_DIR$/src/insert/bst/BstUtils.java" />
+        <option value="$PROJECT_DIR$/src/insert/Main.java" />
+        <option value="$PROJECT_DIR$/src/trees/Main.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/QuadraticEquation.java" />
       </list>
     </option>
   </component>
@@ -98,7 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,14 +114,13 @@
               <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
               <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="insert" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
               <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="insert" type="462c0819:PsiDirectoryNode" />
-              <item name="bst" type="462c0819:PsiDirectoryNode" />
+              <item name="trees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,6 +128,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -144,13 +143,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insert.Main" />
+  <component name="RunManager" selected="Application.QuadraticEquation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trees.Main" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="insert.*" />
+          <option name="PATTERN" value="trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +161,24 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.QuadraticEquation" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.QuadraticEquation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuadraticEquation" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -188,7 +199,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -198,12 +208,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32820514" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.32820514" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32948717" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32820514" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -215,7 +226,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -225,7 +235,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/insert/bst/BstUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/trees/bst/BstUtils.java</url>
           <line>84</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -235,7 +245,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/insert/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/trees/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+          <folding>
+            <element signature="method#searchKey#0;class#BstUtils#0" />
+            <element signature="method#searchKey#1;class#BstUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
@@ -245,93 +283,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/bst/SearchUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/insert/bst/SearchUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/trees/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/bst/BstUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="method#printInOrder#0;class#InsertUtil#0" />
-            <element signature="method#printPreOrder#0;class#InsertUtil#0" />
-            <element signature="method#printPostOrder#0;class#InsertUtil#0" />
-            <element signature="method#printPostOrder#1;class#InsertUtil#0" />
-            <element signature="method#printPreOrder#1;class#InsertUtil#0" />
-            <element signature="method#printInorder#0;class#InsertUtil#0" />
-            <element signature="method#insertNode#0;class#InsertUtil#0" />
             <element signature="method#searchKey#0;class#BstUtils#0" />
             <element signature="method#searchKey#1;class#BstUtils#0" />
-            <element signature="e#2377#2378#0" expanded="true" />
-            <element signature="e#2404#2405#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/trees/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/bst/SearchUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/insert/bst/SearchUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="356">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
           <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
+            <element signature="method#searchKey#0;class#BstUtils#0" />
+            <element signature="method#searchKey#1;class#BstUtils#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/trees/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/bst/BstUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="method#printInOrder#0;class#InsertUtil#0" />
-            <element signature="method#printPreOrder#0;class#InsertUtil#0" />
-            <element signature="method#printPostOrder#0;class#InsertUtil#0" />
-            <element signature="method#printPostOrder#1;class#InsertUtil#0" />
-            <element signature="method#printPreOrder#1;class#InsertUtil#0" />
-            <element signature="method#printInorder#0;class#InsertUtil#0" />
-            <element signature="method#insertNode#0;class#InsertUtil#0" />
-            <element signature="method#searchKey#0;class#BstUtils#0" />
-            <element signature="method#searchKey#1;class#BstUtils#0" />
-            <element signature="e#2377#2378#0" expanded="true" />
-            <element signature="e#2404#2405#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="78">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
