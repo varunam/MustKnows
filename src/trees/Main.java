@@ -8,7 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
         //insertKeyDemo();
-        searchKeyDemo();
+        //searchKeyDemo();
+        modifyBstDemo();
     }
 
     private static void searchKeyDemo() {
@@ -42,5 +43,11 @@ public class Main {
         bstUtils.printPreOrder();
         bstUtils.printInOrder();
         bstUtils.printPostOrder();
+    }
+
+    private static void modifyBstDemo(){
+        BstUtils bstUtils = new BstUtils();
+        insertDummyData(bstUtils);
+        bstUtils.modifyBst();
     }
 }

@@ -78,6 +78,7 @@ public class BstUtils {
         return foundNode != null;
     }
 
+    //search for the key in tree with root given
     private Node searchKey(Node root, int key) {
         if (root != null) {
 
@@ -94,4 +95,31 @@ public class BstUtils {
         } else
             return null;
     }
+
+    public void modifyBst() {
+        modifyBst(root, new S());
+        printInOrder();
+    }
+
+    private class S {
+        int sum = 0;
+    }
+
+    // modify it so that all greater values in the given BST are added to every node
+    private void modifyBst(Node node, S s) {
+        //base case
+        if (node == null)
+            return;
+
+        //recur for right tree
+        modifyBst(node.right, s);
+
+        // Now *sum has sum of nodes in right subtree, add
+        // root->data to sum and update root->data
+        s.sum = s.sum + node.key;
+        node.key = s.sum;
+
+        modifyBst(node.left, s);
+    }
+
 }

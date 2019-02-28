@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/bst/BstUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/bst/BstUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuadraticEquation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QuadraticEquation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="475">
+              <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BstUtils.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BstUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+            <state relative-caret-position="649">
+              <caret line="116" column="8" lean-forward="true" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
               <folding>
                 <element signature="method#searchKey#0;class#BstUtils#0" />
                 <element signature="method#searchKey#1;class#BstUtils#0" />
@@ -84,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/insert/Main.java" />
         <option value="$PROJECT_DIR$/src/trees/Main.java" />
         <option value="$PROJECT_DIR$/src/algorithms/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/src/trees/bst/BstUtils.java" />
       </list>
     </option>
   </component>
@@ -122,6 +122,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="trees" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trees" type="462c0819:PsiDirectoryNode" />
+              <item name="bst" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -143,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuadraticEquation">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trees.Main" />
       <module name="MustKnows" />
@@ -178,8 +185,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuadraticEquation" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.QuadraticEquation" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -199,6 +206,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -208,12 +216,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32948717" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32820514" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -310,14 +318,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/insert/bst/SearchUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
-          <folding>
-            <element signature="method#searchKey#0;class#BstUtils#0" />
-            <element signature="method#searchKey#1;class#BstUtils#0" />
-          </folding>
+        <state relative-caret-position="475">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -331,10 +335,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/QuadraticEquation.java">
+    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="649">
+          <caret line="116" column="8" lean-forward="true" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
+          <folding>
+            <element signature="method#searchKey#0;class#BstUtils#0" />
+            <element signature="method#searchKey#1;class#BstUtils#0" />
+          </folding>
         </state>
       </provider>
     </entry>
