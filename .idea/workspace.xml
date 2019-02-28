@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/insert/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/insert/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/insert/bst/InsertUtil.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/insert/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insert/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/insert/bst/InsertUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insert/bst/BstUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/insert/bst/BstUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insert/bst/BstUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/insert/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            <state relative-caret-position="628">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,14 +27,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BstUtils.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BstUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/insert/bst/BstUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="540">
+              <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
               <folding>
                 <element signature="e#190#191#0" expanded="true" />
                 <element signature="e#234#235#0" expanded="true" />
+                <element signature="method#printInOrder#0;class#InsertUtil#0" />
+                <element signature="method#printPreOrder#0;class#InsertUtil#0" />
+                <element signature="method#printPostOrder#0;class#InsertUtil#0" />
+                <element signature="method#printPostOrder#1;class#InsertUtil#0" />
+                <element signature="method#printPreOrder#1;class#InsertUtil#0" />
+                <element signature="method#printInorder#0;class#InsertUtil#0" />
+                <element signature="method#insertNode#0;class#InsertUtil#0" />
+                <element signature="method#searchKey#0;class#BstUtils#0" />
+                <element signature="method#searchKey#1;class#BstUtils#0" />
+                <element signature="e#2377#2378#0" expanded="true" />
+                <element signature="e#2404#2405#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,8 +82,8 @@
         <option value="$PROJECT_DIR$/src/bst/InsertUtil.java" />
         <option value="$PROJECT_DIR$/src/insert/bst/InsertUtil.java" />
         <option value="$PROJECT_DIR$/src/insert/bst/SearchUtil.java" />
-        <option value="$PROJECT_DIR$/src/insert/bst/BstUtils.java" />
         <option value="$PROJECT_DIR$/src/insert/Main.java" />
+        <option value="$PROJECT_DIR$/src/insert/bst/BstUtils.java" />
       </list>
     </option>
   </component>
@@ -195,7 +203,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32820514" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -262,6 +270,17 @@
           <folding>
             <element signature="e#190#191#0" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
+            <element signature="method#printInOrder#0;class#InsertUtil#0" />
+            <element signature="method#printPreOrder#0;class#InsertUtil#0" />
+            <element signature="method#printPostOrder#0;class#InsertUtil#0" />
+            <element signature="method#printPostOrder#1;class#InsertUtil#0" />
+            <element signature="method#printPreOrder#1;class#InsertUtil#0" />
+            <element signature="method#printInorder#0;class#InsertUtil#0" />
+            <element signature="method#insertNode#0;class#InsertUtil#0" />
+            <element signature="method#searchKey#0;class#BstUtils#0" />
+            <element signature="method#searchKey#1;class#BstUtils#0" />
+            <element signature="e#2377#2378#0" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -284,23 +303,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/bst/BstUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/insert/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="628">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/insert/bst/BstUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        <state relative-caret-position="540">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="method#printInOrder#0;class#InsertUtil#0" />
+            <element signature="method#printPreOrder#0;class#InsertUtil#0" />
+            <element signature="method#printPostOrder#0;class#InsertUtil#0" />
+            <element signature="method#printPostOrder#1;class#InsertUtil#0" />
+            <element signature="method#printPreOrder#1;class#InsertUtil#0" />
+            <element signature="method#printInorder#0;class#InsertUtil#0" />
+            <element signature="method#insertNode#0;class#InsertUtil#0" />
+            <element signature="method#searchKey#0;class#BstUtils#0" />
+            <element signature="method#searchKey#1;class#BstUtils#0" />
+            <element signature="e#2377#2378#0" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
           </folding>
         </state>
       </provider>

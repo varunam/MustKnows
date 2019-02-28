@@ -1,4 +1,4 @@
-package insert;
+package trees;
 
 public class Node {
     public int key;

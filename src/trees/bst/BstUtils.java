@@ -1,6 +1,6 @@
-package insert.bst;
+package trees.bst;
 
-import insert.Node;
+import trees.Node;
 
 public class BstUtils {
 
@@ -54,7 +54,7 @@ public class BstUtils {
         }
     }
 
-    //method to insert node to the tree
+    //method to trees node to the tree
     private Node insertNode(Node root, int key) {
 
         //if the tree is empty, create root
