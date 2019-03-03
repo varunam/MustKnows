@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,15 +20,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/Fibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -94,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -150,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/linkedlists/LinkedListOperations.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" />
       </list>
     </option>
   </component>
@@ -210,6 +210,11 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithms.sorting" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -222,9 +227,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.sorting.BubbleSort" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.InsertionSort" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
@@ -253,16 +268,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.PrimeNumber" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.sorting.SelectionSort" />
       <module name="MustKnows" />
@@ -274,19 +279,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeNumber" />
       <item itemvalue="Application.LinearSearch" />
       <item itemvalue="Application.LinkedListOperations" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.InsertionSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.LinkedListOperations" />
         <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +310,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -317,7 +321,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3272727" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32848486" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3272727" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27181688" />
@@ -326,7 +330,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,8 +357,14 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -686,7 +696,14 @@
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
