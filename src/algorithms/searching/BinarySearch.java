@@ -4,10 +4,9 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * details: https://www.geeksforgeeks.org/linear-search/
+ * details: https://www.geeksforgeeks.org/binary-search/
  */
-public class LinearSearch {
-
+public class BinarySearch {
     public static void main(String[] args) {
 
         System.out.println("Linear Search Algorithm");
@@ -17,7 +16,7 @@ public class LinearSearch {
         printArray(array);
         Scanner scanner = new Scanner(System.in);
         int findNumber = scanner.nextInt();
-        boolean findKey = linearSearch(array, findNumber);
+        boolean findKey = binarySearch(array, findNumber);
         System.out.println("\nFound number: " + findKey);
     }
 
@@ -27,16 +26,13 @@ public class LinearSearch {
     }
 
     /**
-     * each element in the array will be compared with key to be found and result is returned
+     * array will be sorted first and then split into two and checked with middle value
      * @param array - array
      * @param findNumber - key to be searched
      * @return - boolean whether number is found or not
      */
-    private static boolean linearSearch(int[] array, int findNumber) {
-        for (int anArray : array) {
-            if (anArray == findNumber)
-                return true;
-        }
+    private static boolean binarySearch(int[] array, int findNumber) {
+
         return false;
     }
 
