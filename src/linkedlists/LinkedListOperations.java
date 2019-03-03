@@ -2,12 +2,13 @@ package linkedlists;
 
 public class LinkedListOperations {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         LinkedListUtils linkedListUtils = new LinkedListUtils();
 
         //appendDemo(linkedListUtils);
         //insertAfterDemo(linkedListUtils);
-        pushDemo(linkedListUtils);
+        //pushDemo(linkedListUtils);
+        getMiddleNodeDemo(linkedListUtils);
     }
 
     private static void appendDemo(LinkedListUtils linkedListUtils) {
@@ -17,7 +18,7 @@ public class LinkedListOperations {
         linkedListUtils.printLinkedList();
     }
 
-    private static void insertAfterDemo(LinkedListUtils linkedListUtils){
+    private static void insertAfterDemo(LinkedListUtils linkedListUtils) {
         insertDummyData(linkedListUtils);
         System.out.println("Current LinkedList");
         linkedListUtils.printLinkedList();
@@ -31,7 +32,7 @@ public class LinkedListOperations {
         linkedListUtils.printLinkedList();
     }
 
-    private static void pushDemo(LinkedListUtils linkedListUtils){
+    private static void pushDemo(LinkedListUtils linkedListUtils) {
         linkedListUtils.printLinkedList();
         linkedListUtils.push(34);
         linkedListUtils.printLinkedList();
@@ -48,5 +49,12 @@ public class LinkedListOperations {
         linkedListUtils.append(54);
         linkedListUtils.append(76);
         linkedListUtils.append(5);
+    }
+
+    private static void getMiddleNodeDemo(LinkedListUtils linkedList) {
+        insertDummyData(linkedList);
+        linkedList.printLinkedList();
+        Node middleNode = linkedList.getMiddleNode();
+        System.out.println("Middle node: " + middleNode.data);
     }
 }
