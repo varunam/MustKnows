@@ -21,7 +21,6 @@ public class MergeSort {
     }
 
     private static int[] mergeSort(int[] a) {
-        //System.out.println("Merge sorting the array");
         int length = a.length;
         int leftLength = a.length / 2;
         int[] leftArray = new int[leftLength];
@@ -32,12 +31,7 @@ public class MergeSort {
             return a;
 
         System.arraycopy(a, 0, leftArray, 0, leftLength);
-        //System.out.println("leftArray: ");
-        //printArray(leftArray);
-
         System.arraycopy(a, leftLength, rightArray, 0, rightLength);
-        //System.out.println("rightArray: ");
-        //printArray(rightArray);
 
         leftArray = mergeSort(leftArray);
         rightArray = mergeSort(rightArray);
