@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/InsertionSort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,27 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrimeNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/PrimeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinearSearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/searching/LinearSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="50" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,11 +73,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="33" column="57" lean-forward="true" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="528" column="30" selection-start-line="528" selection-start-column="30" selection-end-line="528" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -150,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java" />
       </list>
     </option>
   </component>
@@ -227,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.sorting.BubbleSort" />
       <module name="MustKnows" />
@@ -248,22 +247,22 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.searching.LinearSearch" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="LinkedListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlists.LinkedListOperations" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedlists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.MergeSort" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,19 +278,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.LinearSearch" />
       <item itemvalue="Application.LinkedListOperations" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.MergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.LinkedListOperations" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +309,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -319,7 +319,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3272727" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32848486" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info id="Capture Tool" order="2" />
@@ -330,7 +330,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -363,8 +363,26 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -702,8 +720,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="528" column="30" selection-start-line="528" selection-start-column="30" selection-end-line="528" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="33" column="57" lean-forward="true" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
         </state>
       </provider>
     </entry>
