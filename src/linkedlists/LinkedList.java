@@ -1,10 +1,10 @@
 package linkedlists;
 
-public class LinkedListUtils {
+public class LinkedList {
 
     private Node head;
 
-    LinkedListUtils() {
+    LinkedList() {
         head = null;
     }
 

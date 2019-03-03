@@ -3,55 +3,55 @@ package linkedlists;
 public class LinkedListOperations {
 
     public static void main(String[] args) {
-        LinkedListUtils linkedListUtils = new LinkedListUtils();
+        LinkedList linkedList = new LinkedList();
 
-        //appendDemo(linkedListUtils);
-        //insertAfterDemo(linkedListUtils);
-        //pushDemo(linkedListUtils);
-        getMiddleNodeDemo(linkedListUtils);
+        //appendDemo(linkedList);
+        //insertAfterDemo(linkedList);
+        //pushDemo(linkedList);
+        getMiddleNodeDemo(linkedList);
     }
 
-    private static void appendDemo(LinkedListUtils linkedListUtils) {
-        linkedListUtils.append(10);
-        linkedListUtils.append(30);
-        linkedListUtils.append(4);
-        linkedListUtils.printLinkedList();
+    private static void appendDemo(LinkedList linkedList) {
+        linkedList.append(10);
+        linkedList.append(30);
+        linkedList.append(4);
+        linkedList.printLinkedList();
     }
 
-    private static void insertAfterDemo(LinkedListUtils linkedListUtils) {
-        insertDummyData(linkedListUtils);
+    private static void insertAfterDemo(LinkedList linkedList) {
+        insertDummyData(linkedList);
         System.out.println("Current LinkedList");
-        linkedListUtils.printLinkedList();
+        linkedList.printLinkedList();
         System.out.println("Inserting 43 after 54...");
-        linkedListUtils.insertAfter(54, 43);
+        linkedList.insertAfter(54, 43);
         System.out.println("Insert complete. Current linkedlist");
-        linkedListUtils.printLinkedList();
+        linkedList.printLinkedList();
         System.out.println("Inserting 33 after 23");
-        linkedListUtils.insertAfter(23, 33);
+        linkedList.insertAfter(23, 33);
         System.out.println("Insert complete. Current linkedlist");
-        linkedListUtils.printLinkedList();
+        linkedList.printLinkedList();
     }
 
-    private static void pushDemo(LinkedListUtils linkedListUtils) {
-        linkedListUtils.printLinkedList();
-        linkedListUtils.push(34);
-        linkedListUtils.printLinkedList();
-        linkedListUtils.push(43);
-        linkedListUtils.printLinkedList();
-        linkedListUtils.push(54);
-        linkedListUtils.printLinkedList();
+    private static void pushDemo(LinkedList linkedList) {
+        linkedList.printLinkedList();
+        linkedList.push(34);
+        linkedList.printLinkedList();
+        linkedList.push(43);
+        linkedList.printLinkedList();
+        linkedList.push(54);
+        linkedList.printLinkedList();
     }
 
-    private static void insertDummyData(LinkedListUtils linkedListUtils) {
-        linkedListUtils.append(10);
-        linkedListUtils.append(23);
-        linkedListUtils.append(34);
-        linkedListUtils.append(54);
-        linkedListUtils.append(76);
-        linkedListUtils.append(5);
+    private static void insertDummyData(LinkedList linkedList) {
+        linkedList.append(10);
+        linkedList.append(23);
+        linkedList.append(34);
+        linkedList.append(54);
+        linkedList.append(76);
+        linkedList.append(5);
     }
 
-    private static void getMiddleNodeDemo(LinkedListUtils linkedList) {
+    private static void getMiddleNodeDemo(LinkedList linkedList) {
         insertDummyData(linkedList);
         linkedList.printLinkedList();
         Node middleNode = linkedList.getMiddleNode();
