@@ -4,11 +4,11 @@ public class LinkedListUtils {
 
     private Node head;
 
-    public LinkedListUtils() {
+    LinkedListUtils() {
         head = null;
     }
 
-    public void append(int data) {
+    void append(int data) {
         Node newNode = new Node(data);
         Node tempNode = head;
 
@@ -23,7 +23,7 @@ public class LinkedListUtils {
         tempNode.next = newNode;
     }
 
-    public void printLinkedList() {
+    void printLinkedList() {
         Node tempNode = head;
 
         if (head == null) {
@@ -33,5 +33,31 @@ public class LinkedListUtils {
             System.out.print(tempNode.data + " ");
             tempNode = tempNode.next;
         }
+        System.out.println("");
+    }
+
+    void insertAfter(int prev_key, int data) {
+
+        Node newNode = new Node(data);
+
+        Node tempNode = head;
+        while (tempNode.data != prev_key) {
+            tempNode = tempNode.next;
+        }
+
+        newNode.next = tempNode.next;
+        tempNode.next = newNode;
+    }
+
+    void push(int data) {
+        Node newNode = new Node(data);
+
+        if (head == null) {
+            head = newNode;
+            return;
+        }
+
+        newNode.next = head;
+        head = newNode;
     }
 }
