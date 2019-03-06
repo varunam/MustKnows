@@ -20,6 +20,8 @@ public class StringRoundRotation {
 
     private static boolean isRoundRotation(String string1, String string2) {
         String newString = string1 + string1;
+        // There lengths must be same and str2 must be
+        // a substring of str1 concatenated with str1.
         return string1.length() == string2.length() &&
                 newString.contains(string2);
     }
