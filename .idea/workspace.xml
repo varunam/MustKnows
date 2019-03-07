@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/TreeVerticalSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree$Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree$Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,8 +92,8 @@
       <file leaf-file-name="MaxWidthInTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#321#322#0" expanded="true" />
@@ -349,9 +343,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3272727" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3272727" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32848486" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3272727" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29041487" />
@@ -808,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#321#322#0" expanded="true" />

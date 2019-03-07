@@ -3,6 +3,12 @@ package problemsolving;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * Video - https://youtu.be/il_t1WVLNxk
+ * Question 2
+ * Code and explanation - https://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/
+ */
+
 public class MaxWidthInTree {
 
     public static class Node {
