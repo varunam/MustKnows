@@ -1,8 +1,10 @@
 package algorithms;
 
+import java.util.Date;
 import java.util.Scanner;
 
 public class Fibonacci {
+
     private static int[] F = new int[51];
 
     public static void main(String[] args) {
@@ -12,8 +14,13 @@ public class Fibonacci {
         System.out.println("Enter a number till which you want the program to print fibonacci");
         int number = scanner.nextInt();
         //printFibonacci(number);
+        long time1 = System.currentTimeMillis();
         System.out.println("Recursive with Memoization: " + getFinobacciWithMemoization(number));
-        System.out.println("Recursive without Memoization" + printFibonacciRecursive(number));
+        long time2 = System.currentTimeMillis();
+        System.out.println("Recursive without Memoization: " + printFibonacciRecursive(number));
+        long time3 = System.currentTimeMillis();
+        System.out.println("With DP: " + (time2 - time1));
+        System.out.println("Without DP: " + (time3 - time2));
     }
 
     private static void initF() {
@@ -64,7 +71,7 @@ public class Fibonacci {
             return number;
         }
         if (F[number] != -1) {
-            return F[number];
+                return F[number];
         } else {
             F[number] = getFinobacciWithMemoization(number - 1) + getFinobacciWithMemoization(number - 2);
             return F[number];

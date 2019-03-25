@@ -2,6 +2,14 @@ package problemsolving;
 
 import java.util.Scanner;
 
+/**
+ * Array is supplied as input and it indicates a number.
+ * Ex: If the array supplied is [1, 3, 4], it indicates a number 134.
+ * The requirement is to add 1 to the number.
+ * So, if the input is [2, 9, 9], output should be [3, 0, 0]
+ * similarly,
+ * if the input it [9,9,9], output should be [1,0,0,0]
+ */
 public class NumberAsArray {
 
     public static void main(String[] args) {
@@ -45,8 +53,8 @@ public class NumberAsArray {
         printArray(newArray);
     }
 
-    private static int[] printResultRecursive(int[] array, int index, int carrry) {
-        if (index + 1 == 0 && carrry != 1) {
+    private static int[] printResultRecursive(int[] array, int index, int carry) {
+        if (index + 1 == 0 && carry != 1) {
             return array;
         } else if (index + 1 == 0) {
             int[] newArray = new int[array.length + 1];
@@ -54,13 +62,13 @@ public class NumberAsArray {
             printArray(newArray);
             return newArray;
         }
-        array[index] = array[index] + carrry;
+        array[index] = array[index] + carry;
         if (array[index] == 10)
-            carrry = 1;
+            carry = 1;
         else
-            carrry = 0;
+            carry = 0;
         array[index] = array[index] % 10;
-        array = printResultRecursive(array, index - 1, carrry);
+        array = printResultRecursive(array, index - 1, carry);
         return array;
     }
 }
