@@ -3,14 +3,23 @@ package algorithms;
 import java.util.Scanner;
 
 public class Fibonacci {
+    private static int[] F = new int[51];
 
     public static void main(String[] args) {
+        initF();
         System.out.println("Printing fibonacci series till given number");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number till which you want the program to print fibonacci");
         int number = scanner.nextInt();
-        printFibonacci(number);
-        //System.out.println(printFibonacciRecursive(number));
+        //printFibonacci(number);
+        System.out.println("Recursive with Memoization: " + getFinobacciWithMemoization(number));
+        System.out.println("Recursive without Memoization" + printFibonacciRecursive(number));
+    }
+
+    private static void initF() {
+        for (int i = 0; i < F.length; i++) {
+            F[i] = -1;
+        }
     }
 
     static long t1 = 0;
@@ -18,6 +27,7 @@ public class Fibonacci {
 
     /**
      * complexity is O(n). Good method to follow
+     *
      * @param number
      */
     private static void printFibonacci(int number) {
@@ -30,7 +40,8 @@ public class Fibonacci {
     }
 
     /**
-     * exponential time complexity. Not recommended.
+     * exponential time complexity. Not recommended. Find out time taken to calculate for value 40 and above to see it!
+     *
      * @param number
      * @return
      */
@@ -39,6 +50,22 @@ public class Fibonacci {
             return number;
         } else {
             return printFibonacciRecursive(number - 1) + printFibonacciRecursive(number - 2);
+        }
+    }
+
+    /**
+     * recursive with memoization.
+     */
+
+    private static int getFinobacciWithMemoization(int number) {
+        if (number <= 1) {
+            return number;
+        }
+        if (F[number] != -1) {
+            return F[number];
+        } else {
+            F[number] = getFinobacciWithMemoization(number - 1) + getFinobacciWithMemoization(number - 2);
+            return F[number];
         }
     }
 }
