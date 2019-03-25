@@ -122,4 +122,24 @@ public class BstUtils {
         modifyBst(node.left, s);
     }
 
+    public void searchLowest(int lowest) {
+        searchLowest(root, lowest);
+    }
+
+    private int result = 0;
+    private int counter = 0;
+
+    public void searchLowest(Node root, int lowest) {
+        if (root != null) {
+            searchLowest(root.left, lowest);
+            if (counter == lowest) {
+                result = root.key;
+                System.out.println("Result: " + root.key);
+                return;
+            }
+            counter++;
+            searchLowest(root.right, lowest);
+        }
+    }
+
 }

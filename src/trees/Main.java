@@ -9,7 +9,8 @@ public class Main {
     public static void main(String[] args) {
         //insertKeyDemo();
         //searchKeyDemo();
-        modifyBstDemo();
+        //modifyBstDemo();
+        searchlowestDemo();
     }
 
     private static void searchKeyDemo() {
@@ -45,9 +46,18 @@ public class Main {
         bstUtils.printPostOrder();
     }
 
-    private static void modifyBstDemo(){
+    private static void modifyBstDemo() {
         BstUtils bstUtils = new BstUtils();
         insertDummyData(bstUtils);
         bstUtils.modifyBst();
+    }
+
+    private static void searchlowestDemo() {
+        BstUtils bstUtils = new BstUtils();
+        insertDummyData(bstUtils);
+        System.out.println("Enter the lowest number to find");
+        Scanner scanner = new Scanner(System.in);
+        int value = scanner.nextInt();
+        bstUtils.searchLowest(value-1);
     }
 }
