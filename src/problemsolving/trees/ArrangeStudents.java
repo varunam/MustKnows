@@ -1,4 +1,4 @@
-package problemsolving;
+package problemsolving.trees;
 
 /**
  * N students in a class play a game against each other where each student

@@ -1,4 +1,4 @@
-package problemsolving;
+package problemsolving.string;
 
 import java.util.Arrays;
 import java.util.Scanner;

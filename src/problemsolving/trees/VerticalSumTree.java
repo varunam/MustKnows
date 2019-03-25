@@ -1,4 +1,4 @@
-package problemsolving;
+package problemsolving.trees;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package problemsolving;
+package problemsolving.linkedlist;
 
 public class FindLoopInLinkedList {
 
