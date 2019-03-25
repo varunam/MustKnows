@@ -41,7 +41,7 @@ public class Fibonacci {
 
     /**
      * exponential time complexity. Not recommended. Find out time taken to calculate for value 40 and above to see it!
-     *
+     * video = https://www.youtube.com/watch?v=pqivnzmSbq4
      * @param number
      * @return
      */
@@ -55,6 +55,8 @@ public class Fibonacci {
 
     /**
      * recursive with memoization.
+     * This is not better than the iterative method but as good as it.
+     * video tutorial = https://www.youtube.com/watch?v=UxICsjrdlJA
      */
 
     private static int getFinobacciWithMemoization(int number) {
