@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/ArrangeStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/FindLoopInLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/FindLoopInLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/MaxWidthInTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/MaxWidthInTree$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/MaxWidthInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/NumberAsArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/StringPermutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/StringRoundRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/VerticalSumTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/WaterTrappingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils$S.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils$S.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/bst/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/bst/BstUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/bst/BstUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlists/LinkedListOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/FindLoopInLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/string/StringPermutations.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,14 +57,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="96" column="52" lean-forward="true" selection-start-line="96" selection-start-column="52" selection-end-line="96" selection-end-column="52" />
+            <state relative-caret-position="648">
+              <caret line="104" column="5" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="36" column="28" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191">
+              <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -129,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="15">
               <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
             </state>
           </provider>
@@ -209,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/trees/BstFunctions.java" />
         <option value="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java" />
       </list>
     </option>
   </component>
@@ -338,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IndexOfTwoNumbersToTarget">
+  <component name="RunManager" selected="Application.FindSocksPairs">
     <configuration name="BstFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trees.bst.BstFunctions" />
       <module name="MustKnows" />
@@ -358,6 +341,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSocksPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.arrays.FindSocksPairs" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemsolving.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,33 +387,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsolving.string.StringPermutations" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemsolving.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.StringPermutations" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.BstFunctions" />
       <item itemvalue="Application.NumberAsArray" />
       <item itemvalue="Application.IndexOfTwoNumbersToTarget" />
+      <item itemvalue="Application.FindSocksPairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSocksPairs" />
         <item itemvalue="Application.IndexOfTwoNumbersToTarget" />
         <item itemvalue="Application.BstFunctions" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.NumberAsArray" />
-        <item itemvalue="Application.StringPermutations" />
       </list>
     </recent_temporary>
   </component>
@@ -437,12 +420,12 @@
       <workItem from="1554129569101" duration="938000" />
       <workItem from="1554518469014" duration="1691000" />
       <workItem from="1554821856782" duration="548000" />
-      <workItem from="1554877652268" duration="970000" />
+      <workItem from="1554877652268" duration="2357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8736000" />
+    <option name="totallyTimeSpent" value="10285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -457,12 +440,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.26626506" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.26626506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32673267" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32650602" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32848486" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32969698" />
@@ -552,6 +535,12 @@
           <line>73</line>
           <properties />
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -785,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -803,10 +785,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="96" column="52" lean-forward="true" selection-start-line="96" selection-start-column="52" selection-end-line="96" selection-end-column="52" />
+        <state relative-caret-position="648">
+          <caret line="104" column="5" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
