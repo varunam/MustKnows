@@ -1,16 +1,16 @@
-package trees;
+package trees.bst;
 
 import trees.bst.BstUtils;
 
 import java.util.Scanner;
 
-public class Main {
+public class BstFunctions {
 
     public static void main(String[] args) {
         //insertKeyDemo();
-        //searchKeyDemo();
+        searchKeyDemo();
         //modifyBstDemo();
-        searchlowestDemo();
+        //searchlowestDemo();
     }
 
     private static void searchKeyDemo() {

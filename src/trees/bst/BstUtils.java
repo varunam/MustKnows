@@ -1,7 +1,5 @@
 package trees.bst;
 
-import trees.Node;
-
 public class BstUtils {
 
     // root of BST
