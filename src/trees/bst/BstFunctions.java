@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class BstFunctions {
 
     public static void main(String[] args) {
-        //insertKeyDemo();
-        searchKeyDemo();
+        insertKeyDemo();
+        //searchKeyDemo();
         //modifyBstDemo();
         //searchlowestDemo();
     }

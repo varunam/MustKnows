@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,68 +18,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/string/StringPermutations.java">
+        <entry file="file://$PROJECT_DIR$/src/trees/bst/BstFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/string/StringRoundRotation.java">
+        <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/ArrangeStudents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="method#insert#0;class#Tree#0;class#MaxWidthInTree#0" />
-                <element signature="method#printInOrder#0;class#Tree#0;class#MaxWidthInTree#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="104" column="5" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="495">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/VerticalSumTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -84,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-191">
+            <state relative-caret-position="4140">
               <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
             </state>
           </provider>
@@ -111,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="420">
               <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
             </state>
           </provider>
@@ -189,15 +182,18 @@
         <option value="$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java" />
         <option value="$PROJECT_DIR$/src/trees/bst/BstUtils.java" />
         <option value="$PROJECT_DIR$/src/trees/BstFunctions.java" />
-        <option value="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java" />
+        <option value="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -222,6 +218,13 @@
               <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
@@ -293,8 +296,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -321,13 +324,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindSocksPairs">
+  <component name="RunManager" selected="Application.CheckPermutationOfEachOther">
     <configuration name="BstFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trees.bst.BstFunctions" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="trees.bst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPermutationOfEachOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.string.CheckPermutationOfEachOther" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemsolving.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,33 +390,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberAsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsolving.arrays.NumberAsArray" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemsolving.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.BstFunctions" />
-      <item itemvalue="Application.NumberAsArray" />
       <item itemvalue="Application.IndexOfTwoNumbersToTarget" />
       <item itemvalue="Application.FindSocksPairs" />
+      <item itemvalue="Application.CheckPermutationOfEachOther" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckPermutationOfEachOther" />
+        <item itemvalue="Application.BstFunctions" />
         <item itemvalue="Application.FindSocksPairs" />
         <item itemvalue="Application.IndexOfTwoNumbersToTarget" />
-        <item itemvalue="Application.BstFunctions" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.NumberAsArray" />
       </list>
     </recent_temporary>
   </component>
@@ -420,18 +423,21 @@
       <workItem from="1554129569101" duration="938000" />
       <workItem from="1554518469014" duration="1691000" />
       <workItem from="1554821856782" duration="548000" />
-      <workItem from="1554877652268" duration="2357000" />
+      <workItem from="1554877652268" duration="2511000" />
+      <workItem from="1555047713654" duration="631000" />
+      <workItem from="1555078154739" duration="1246000" />
+      <workItem from="1556090357588" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10285000" />
+    <option name="totallyTimeSpent" value="13184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25079873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,12 +446,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.26626506" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.26534653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32650602" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32574257" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32848486" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32969698" />
@@ -470,12 +476,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/trees/bst/BstUtils.java</url>
-          <line>82</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/linkedlists/LinkedList.java</url>
           <line>40</line>
@@ -542,6 +542,12 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trees/bst/BstUtils.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -597,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/VerticalSumTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/WaterTrappingLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -622,20 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -760,6 +745,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="104" column="5" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="method#insert#0;class#Tree#0;class#MaxWidthInTree#0" />
+            <element signature="method#printInOrder#0;class#Tree#0;class#MaxWidthInTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/VerticalSumTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedlists/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -774,48 +818,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="method#insert#0;class#Tree#0;class#MaxWidthInTree#0" />
-            <element signature="method#printInOrder#0;class#Tree#0;class#MaxWidthInTree#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="420">
           <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java">
+    <entry file="file://$PROJECT_DIR$/src/trees/bst/BstUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="104" column="5" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
