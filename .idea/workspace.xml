@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/arrays/JumpingOnTheClouds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/JumpingOnTheClouds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="64" column="21" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="455">
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -197,9 +196,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,6 +293,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -323,26 +321,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JumpingOnTheClouds">
+  <component name="RunManager" selected="Application.SpecialStackImplementation">
     <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemsolving.arrays.ArrayRotation" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="problemsolving.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BstFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.bst.BstFunctions" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trees.bst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,20 +374,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpecialStackImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.stack.SpecialStackImplementation" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemsolving.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BstFunctions" />
       <item itemvalue="Application.CheckPermutationOfEachOther" />
       <item itemvalue="Application.HourGlass2DArray" />
       <item itemvalue="Application.ArrayRotation" />
       <item itemvalue="Application.JumpingOnTheClouds" />
+      <item itemvalue="Application.SpecialStackImplementation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpecialStackImplementation" />
         <item itemvalue="Application.JumpingOnTheClouds" />
         <item itemvalue="Application.ArrayRotation" />
         <item itemvalue="Application.HourGlass2DArray" />
         <item itemvalue="Application.CheckPermutationOfEachOther" />
-        <item itemvalue="Application.BstFunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -429,18 +427,20 @@
       <workItem from="1556186415427" duration="6660000" />
       <workItem from="1556332335036" duration="1067000" />
       <workItem from="1556352224694" duration="2390000" />
-      <workItem from="1556632560071" duration="983000" />
+      <workItem from="1556632560071" duration="1108000" />
+      <workItem from="1556776575687" duration="19000" />
+      <workItem from="1556776631039" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25222000" />
+    <option name="totallyTimeSpent" value="25381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26943558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,12 +449,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.26506025" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.26506025" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3253012" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32475248" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32848486" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
@@ -804,6 +804,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/ArrangeStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/string/StringPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -858,17 +865,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/trees/ArrangeStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/JumpingOnTheClouds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="64" column="21" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="455">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
         </state>
       </provider>
     </entry>
