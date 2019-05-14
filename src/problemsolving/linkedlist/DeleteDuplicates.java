@@ -2,6 +2,14 @@ package problemsolving.linkedlist;
 
 import java.util.HashSet;
 
+/**
+ * Write a removeDuplicates() function which takes a list and deletes any duplicate nodes from the list. The list is not sorted.
+ * <p>
+ * For example if the linked list is 12->11->12->21->41->43->21 then removeDuplicates() should convert the list to 12->11->21->41->43.
+ * <p>
+ * Problem and solution:
+ * https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
+ */
 public class DeleteDuplicates {
 
     public static void main(String[] args) {
