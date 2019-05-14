@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/CancelOutElementsSumToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FindCenterOfLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FindCenterOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FindCenterOfLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList$LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList$LinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,17 +13,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MustKnows$DeleteDuplicates.ic" NAME="DeleteDuplicates Coverage Results" MODIFIED="1557842518268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>problemsolving.linkedlist.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/SubArrayZeroSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,17 +54,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="480">
+              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -84,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="384">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding>
                 <element signature="e#165#166#0" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
@@ -150,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/PrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/algorithms/searching/LinearSearch.java" />
         <option value="$PROJECT_DIR$/src/linkedlists/Node.java" />
         <option value="$PROJECT_DIR$/src/linkedlists/LinkedList.java" />
@@ -195,12 +191,13 @@
         <option value="$PROJECT_DIR$/src/problemsolving/stack/SpecialStackImplementation.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/arrays/SubArrayZeroSum.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/FlattenLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/FindLoopInLinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/CancelOutElementsSumToZero.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" />
       </list>
     </option>
   </component>
@@ -337,7 +334,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteMiddleOfLinkedList">
+  <component name="RunManager" selected="Application.DeleteDuplicates">
+    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.DeleteDuplicates" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemsolving.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeleteMiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.DeleteMiddleOfLinkedList" />
       <module name="MustKnows" />
@@ -377,19 +387,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArrayZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsolving.arrays.SubArrayZeroSum" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemsolving.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemsolving.arrays.SubsetSum" />
       <module name="MustKnows" />
@@ -404,19 +401,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SubArrayZeroSum" />
       <item itemvalue="Application.FindCenterOfLinkedList" />
       <item itemvalue="Application.FlattenLinkedList" />
       <item itemvalue="Application.SubsetSum" />
       <item itemvalue="Application.DeleteMiddleOfLinkedList" />
+      <item itemvalue="Application.DeleteDuplicates" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteDuplicates" />
         <item itemvalue="Application.DeleteMiddleOfLinkedList" />
         <item itemvalue="Application.SubsetSum" />
         <item itemvalue="Application.FindCenterOfLinkedList" />
         <item itemvalue="Application.FlattenLinkedList" />
-        <item itemvalue="Application.SubArrayZeroSum" />
       </list>
     </recent_temporary>
   </component>
@@ -451,18 +448,18 @@
       <workItem from="1557152371431" duration="850000" />
       <workItem from="1557225548259" duration="228000" />
       <workItem from="1557745018532" duration="1793000" />
-      <workItem from="1557832542666" duration="3482000" />
+      <workItem from="1557832542666" duration="5489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34829000" />
+    <option name="totallyTimeSpent" value="36836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21458998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21458998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -471,18 +468,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.21683168" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.21683168" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3237624" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.3237624" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.3237624" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32848486" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32970297" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32960597" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -596,6 +594,18 @@
           <line>10</line>
           <properties />
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -931,17 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -958,15 +957,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="480">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

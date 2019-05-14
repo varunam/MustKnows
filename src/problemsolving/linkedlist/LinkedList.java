@@ -10,6 +10,15 @@ public class LinkedList {
         public Node(int data) {
             this.data = data;
         }
+
+        @Override
+        public boolean equals(Object obj) {
+            if (obj instanceof Node) {
+                Node node = (Node) obj;
+                return this.data == node.data;
+            }
+            return false;
+        }
     }
 
     Node head;
