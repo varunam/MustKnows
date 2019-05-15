@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/SumOfNodesBetweenZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/ReverseLinkedListInGivenSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/ReverseLinkedListInGivenSize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,15 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -43,8 +33,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="9" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="411">
+              <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/SumOfNodesBetweenZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -79,17 +78,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -138,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java" />
@@ -189,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/SumOfNodesBetweenZero.java" />
       </list>
     </option>
   </component>
@@ -260,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NthNodeFromEndOfLinkedList">
+  <component name="RunManager" selected="Application.SumOfNodesBetweenZero">
     <configuration name="DeleteNodesHavingGreaterValueOnRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.DeleteNodesHavingGreaterValueOnRight" />
       <module name="MustKnows" />
@@ -313,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedListWithoutStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.ReverseLinkedListWithoutStack" />
+    <configuration name="SumOfNodesBetweenZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.SumOfNodesBetweenZero" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
@@ -327,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseLinkedListWithoutStack" />
       <item itemvalue="Application.ReverseLinkedListWithStack" />
       <item itemvalue="Application.ReverseLinkedListInGivenSize" />
       <item itemvalue="Application.DeleteNodesHavingGreaterValueOnRight" />
       <item itemvalue="Application.NthNodeFromEndOfLinkedList" />
+      <item itemvalue="Application.SumOfNodesBetweenZero" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfNodesBetweenZero" />
         <item itemvalue="Application.NthNodeFromEndOfLinkedList" />
         <item itemvalue="Application.DeleteNodesHavingGreaterValueOnRight" />
         <item itemvalue="Application.ReverseLinkedListInGivenSize" />
         <item itemvalue="Application.ReverseLinkedListWithStack" />
-        <item itemvalue="Application.ReverseLinkedListWithoutStack" />
       </list>
     </recent_temporary>
   </component>
@@ -375,12 +374,12 @@
       <workItem from="1557225548259" duration="228000" />
       <workItem from="1557745018532" duration="1793000" />
       <workItem from="1557832542666" duration="7994000" />
-      <workItem from="1557897086826" duration="6601000" />
+      <workItem from="1557897086826" duration="8177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45942000" />
+    <option name="totallyTimeSpent" value="47518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -395,8 +394,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.27623764" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.27623764" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -548,13 +547,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java</url>
-          <line>27</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java</url>
-          <line>22</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
@@ -586,7 +585,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/TreeVerticalSum.java" />
     <entry file="file://$PROJECT_DIR$/src/stack/StackUsingLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -901,13 +899,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="9" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/FindLoopInLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -945,15 +936,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/SumOfNodesBetweenZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>

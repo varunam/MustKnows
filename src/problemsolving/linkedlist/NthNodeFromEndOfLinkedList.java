@@ -1,5 +1,12 @@
 package problemsolving.linkedlist;
 
+/**
+ * Program for n’th node from the end of a Linked List
+ * <p>
+ * Given a Linked List and a number n, write a function that returns the value at the n’th node from end of the Linked List.
+ * <p>
+ * https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
+ */
 public class NthNodeFromEndOfLinkedList {
 
     public static void main(String[] args) {

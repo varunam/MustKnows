@@ -1,5 +1,8 @@
 package problemsolving.linkedlist;
 
+/**
+ *
+ */
 public class DeleteNodesHavingGreaterValueOnRight {
 
     public static void main(String[] args) {
@@ -15,6 +18,9 @@ public class DeleteNodesHavingGreaterValueOnRight {
 
         linkedList.head = deleteGreaterValuesOnRight(linkedList.head);
         linkedList.printList();
+
+        //TODO SOLUTION IS NOT COMPLETE
+        //PROBLEM HERE - https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1/?ref=self
     }
 
     private static LinkedList.Node deleteGreaterValuesOnRight(LinkedList.Node head) {
