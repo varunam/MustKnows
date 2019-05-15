@@ -14,7 +14,12 @@ package problemsolving.linkedlist;
  Output:  5->4->3->2->1->8->7->6->NULL.
 
  Problem and Solution:
+ Using Recursion -
  https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+
+ Using Stack -
+ https://www.geeksforgeeks.org/reverse-linked-list-groups-given-size-set-2/
+
  */
 public class ReverseLinkedListInGivenSize {
     public static void main(String[] args) {
