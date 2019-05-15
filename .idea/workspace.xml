@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/DeleteDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/DeleteDuplicates.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +70,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="630">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -94,27 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
               <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemsolving/string/StringPermutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -145,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/searching/LinearSearch.java" />
-        <option value="$PROJECT_DIR$/src/linkedlists/Node.java" />
         <option value="$PROJECT_DIR$/src/linkedlists/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/linkedlists/LinkedListUtils.java" />
         <option value="$PROJECT_DIR$/src/linkedlists/LinkedListOperations.java" />
@@ -196,12 +194,15 @@
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java" />
+        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -226,40 +227,7 @@
               <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
               <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="searching" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
@@ -267,39 +235,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-              <item name="trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bst" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteDuplicates">
+  <component name="RunManager" selected="Application.ReverseLinkedListWithStack">
     <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.DeleteDuplicates" />
       <module name="MustKnows" />
@@ -359,8 +294,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCenterOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.FindCenterOfLinkedList" />
+    <configuration name="ReverseLinkedListWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.ReverseLinkedListWithStack" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
@@ -372,8 +307,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlattenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.FlattenLinkedList" />
+    <configuration name="ReverseLinkedListWithoutStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemsolving.linkedlist.ReverseLinkedListWithoutStack" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
@@ -399,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindCenterOfLinkedList" />
-      <item itemvalue="Application.FlattenLinkedList" />
       <item itemvalue="Application.SubsetSum" />
       <item itemvalue="Application.DeleteMiddleOfLinkedList" />
       <item itemvalue="Application.DeleteDuplicates" />
+      <item itemvalue="Application.ReverseLinkedListWithoutStack" />
+      <item itemvalue="Application.ReverseLinkedListWithStack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseLinkedListWithStack" />
+        <item itemvalue="Application.ReverseLinkedListWithoutStack" />
         <item itemvalue="Application.DeleteDuplicates" />
         <item itemvalue="Application.DeleteMiddleOfLinkedList" />
         <item itemvalue="Application.SubsetSum" />
-        <item itemvalue="Application.FindCenterOfLinkedList" />
-        <item itemvalue="Application.FlattenLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -446,18 +381,18 @@
       <workItem from="1557152371431" duration="850000" />
       <workItem from="1557225548259" duration="228000" />
       <workItem from="1557745018532" duration="1793000" />
-      <workItem from="1557832542666" duration="5731000" />
+      <workItem from="1557832542666" duration="7994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37078000" />
+    <option name="totallyTimeSpent" value="39341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21458998" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28826895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -466,12 +401,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.21683168" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.277707" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" visible="true" weight="0.3237624" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.3237624" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.3237624" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32848486" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
@@ -598,6 +533,12 @@
           <line>16</line>
           <properties />
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -961,6 +902,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -972,10 +920,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
