@@ -1,5 +1,8 @@
 package varun.problemsolving.linkedlist;
 
+/**
+ * https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+ */
 public class FindLoopInLinkedList {
 
     public static Node findStartPointOfLoop(Node head) {
