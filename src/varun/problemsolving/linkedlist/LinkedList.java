@@ -1,8 +1,14 @@
 package varun.problemsolving.linkedlist;
 
+import java.util.Random;
+
 public class LinkedList {
 
-    class Node {
+    public static Node getNewNode(int i) {
+        return new Node(i);
+    }
+
+    static class Node {
 
         int data;
         Node next;
@@ -18,6 +24,17 @@ public class LinkedList {
                 return this.data == node.data;
             }
             return false;
+        }
+    }
+
+    public LinkedList() {
+
+    }
+
+    public LinkedList(int elements, int bound) {
+        Random random = new Random();
+        for (int i = 0; i < elements; i++) {
+            push(random.nextInt(bound));
         }
     }
 

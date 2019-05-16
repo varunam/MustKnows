@@ -2,120 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithoutBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/AddOneToLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/QuadraticEquation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/searching/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/searching/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/algorithms/sorting/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/linkedlists/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/linkedlists/LinkedListOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/linkedlists/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/WaterTrappingLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/ArrayRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/FindSocksPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/HourGlass2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/IndexOfTwoNumbersToTarget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/JumpingOnTheClouds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/NumberAsArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/SubArrayZeroSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/SubsetSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/arrays/WaterTrappingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/CancelOutElementsSumToZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/DeleteDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/DeleteMiddleOfLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FindCenterOfLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FindLoopInLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FindLoopInLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList$LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList$LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/FlattenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/PalindromeLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/ReverseLinkedListInGivenSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/ReverseLinkedListWithStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/ReverseLinkedListWithoutStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/linkedlist/SumOfNodesBetweenZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/stack/SpecialStackImplementation$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/stack/SpecialStackImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/string/CheckPermutationOfEachOther.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/string/StringPermutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/string/StringRoundRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/ArrangeStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/MaxWidthInTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/MaxWidthInTree$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/MaxWidthInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/VerticalSumTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/VerticalSumTree$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/problemsolving/trees/VerticalSumTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/stack/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/stack/StackUsingLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/stack/StackUsingLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstFunctions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils$S.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/BstUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/trees/bst/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/searching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/searching/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/searching/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/algorithms/sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/linkedlists/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlists/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/linkedlists/LinkedListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlists/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/linkedlists/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/WaterTrappingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/WaterTrappingLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/FindSocksPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/HourGlass2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/HourGlass2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/IndexOfTwoNumbersToTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/JumpingOnTheClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/JumpingOnTheClouds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/NumberAsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/NumberAsArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/SubArrayZeroSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/SubArrayZeroSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/SubsetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/WaterTrappingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/CancelOutElementsSumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/CancelOutElementsSumToZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindCenterOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/FindLoopInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindLoopInLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/FlattenLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FlattenLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListWithStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/linkedlist/SumOfNodesBetweenZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/SumOfNodesBetweenZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/stack/SpecialStackImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/stack/SpecialStackImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/string/CheckPermutationOfEachOther.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/string/StringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/string/StringPermutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/string/StringRoundRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/string/StringRoundRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/trees/ArrangeStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/ArrangeStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/MaxWidthInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsolving/trees/VerticalSumTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/VerticalSumTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/StackUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/stack/StackUsingLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/bst/BstFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/bst/BstUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/bst/BstUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/bst/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/bst/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/CancelOutElementsSumToZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/CancelOutElementsSumToZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteMiddleOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteMiddleOfLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FindCenterOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FindCenterOfLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/PalindromeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/PalindromeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListInGivenSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListInGivenSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListWithStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListWithStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListWithoutStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListWithoutStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/SumOfNodesBetweenZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/SumOfNodesBetweenZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/PalindromeStringWithBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/PalindromeStringWithBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,24 +44,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListWithStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
@@ -176,11 +61,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithoutBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/AddOneToLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -206,8 +109,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="105">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -247,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/sorting/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/stack/Stack.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackUsingLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/WaterUnitsCount.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/WaterTrappingArray.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/WaterTrappingLinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/FindLoopInLinkedList.java" />
@@ -298,6 +203,10 @@
         <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/PalindromeLinkedList.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/string/PalindromeStringWithoutBuilder.java" />
         <option value="$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithoutBuilder.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithBuilder.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/AddONeToLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/AddOneToLinkedList.java" />
       </list>
     </option>
   </component>
@@ -335,6 +244,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="varun" type="462c0819:PsiDirectoryNode" />
               <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="varun" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
@@ -383,7 +300,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeStringWithBuilder">
+  <component name="RunManager" selected="Application.AddOneToLinkedList">
+    <configuration name="AddOneToLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.linkedlist.AddOneToLinkedList" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="varun.problemsolving.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeleteNodesHavingGreaterValueOnRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="varun.problemsolving.linkedlist.DeleteNodesHavingGreaterValueOnRight" />
       <module name="MustKnows" />
@@ -436,33 +366,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNodesBetweenZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.linkedlist.SumOfNodesBetweenZero" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="varun.problemsolving.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DeleteNodesHavingGreaterValueOnRight" />
-      <item itemvalue="Application.SumOfNodesBetweenZero" />
       <item itemvalue="Application.PalindromeLinkedList" />
       <item itemvalue="Application.PalindromeStringWithoutBuilder" />
       <item itemvalue="Application.PalindromeStringWithBuilder" />
+      <item itemvalue="Application.AddOneToLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddOneToLinkedList" />
         <item itemvalue="Application.PalindromeStringWithBuilder" />
         <item itemvalue="Application.PalindromeStringWithoutBuilder" />
         <item itemvalue="Application.PalindromeLinkedList" />
         <item itemvalue="Application.DeleteNodesHavingGreaterValueOnRight" />
-        <item itemvalue="Application.SumOfNodesBetweenZero" />
       </list>
     </recent_temporary>
   </component>
@@ -500,12 +417,12 @@
       <workItem from="1557832542666" duration="7994000" />
       <workItem from="1557897086826" duration="9399000" />
       <workItem from="1557981342424" duration="2683000" />
-      <workItem from="1557986488025" duration="2752000" />
+      <workItem from="1557986488025" duration="3702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54175000" />
+    <option name="totallyTimeSpent" value="55125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -699,20 +616,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/searching/LinearSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/bst/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/algorithms/searching/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -1020,13 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindLoopInLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1071,8 +967,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithoutBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/AddOneToLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
         </state>
       </provider>
     </entry>
