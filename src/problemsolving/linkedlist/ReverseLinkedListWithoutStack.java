@@ -13,7 +13,7 @@ public class ReverseLinkedListWithoutStack {
         linkedList.printList();
     }
 
-    private static LinkedList.Node reverseLinkedList(LinkedList.Node head) {
+    public static LinkedList.Node reverseLinkedList(LinkedList.Node head) {
         LinkedList.Node prev = null;
         LinkedList.Node current = head;
         LinkedList.Node next = null;
