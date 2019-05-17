@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/string/StringDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/CheckIfTreeIsBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/WaterTrappingLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/InOrderWithoutRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/InOrderWithoutRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/varun/problemsolving/WaterTrappingLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
+            <state relative-caret-position="-190">
               <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
             </state>
           </provider>
@@ -98,6 +91,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/CheckIfTreeIsBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -150,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/trees/Main.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/NumberAsArray.java" />
         <option value="$PROJECT_DIR$/src/algorithms/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/arrays/NumberAsArray.java" />
@@ -201,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/varun/problemsolving/string/StringDivisor.java" />
         <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/CheckIfTreeIsBST.java" />
       </list>
     </option>
   </component>
@@ -317,7 +319,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteNodeBinarySearchTree">
+  <component name="RunManager" selected="Application.CheckIfTreeIsBST">
+    <configuration name="CheckIfTreeIsBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.trees.CheckIfTreeIsBST" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="varun.problemsolving.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeleteNodeBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="varun.problemsolving.trees.DeleteNodeBinarySearchTree" />
       <module name="MustKnows" />
@@ -333,19 +348,6 @@
     </configuration>
     <configuration name="InOrderWithoutRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="varun.problemsolving.trees.InOrderWithoutRecursion" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="varun.problemsolving.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertionInLevelOrderBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.trees.InsertionInLevelOrderBinaryTree" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
@@ -384,19 +386,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InsertionInLevelOrderBinaryTree" />
       <item itemvalue="Application.InOrderWithoutRecursion" />
       <item itemvalue="Application.StringDivisor" />
       <item itemvalue="Application.MaxSubSquare" />
       <item itemvalue="Application.DeleteNodeBinarySearchTree" />
+      <item itemvalue="Application.CheckIfTreeIsBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckIfTreeIsBST" />
         <item itemvalue="Application.DeleteNodeBinarySearchTree" />
         <item itemvalue="Application.StringDivisor" />
         <item itemvalue="Application.MaxSubSquare" />
         <item itemvalue="Application.InOrderWithoutRecursion" />
-        <item itemvalue="Application.InsertionInLevelOrderBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -434,12 +436,12 @@
       <workItem from="1557832542666" duration="7994000" />
       <workItem from="1557897086826" duration="9399000" />
       <workItem from="1557981342424" duration="2683000" />
-      <workItem from="1557986488025" duration="15613000" />
+      <workItem from="1557986488025" duration="16881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67036000" />
+    <option name="totallyTimeSpent" value="68304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -459,7 +461,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.3759036" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.37524754" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.3237624" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32772276" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
@@ -650,13 +652,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/algorithms/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -1005,13 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/misc/WaterTrappingLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1051,8 +1039,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
+        <state relative-caret-position="-190">
           <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/CheckIfTreeIsBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
