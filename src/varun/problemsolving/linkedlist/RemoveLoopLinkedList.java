@@ -37,7 +37,6 @@ public class RemoveLoopLinkedList {
             }
         }
 
-
     }
 
     private static void removeLoop(Node loopStart, Node head) {
