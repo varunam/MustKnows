@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class BinarySearchTree {
 
-    private Node root;
+    public Node root;
 
     class Node {
 
@@ -31,18 +31,21 @@ public class BinarySearchTree {
         }
     }
 
-    public Node insert(Node root, int data) {
+    public void insert(int data) {
+        root = insert(root, data);
+    }
+
+    private Node insert(Node root, int data) {
 
         Node node = new Node(data);
 
         if (root == null) {
             root = node;
-            return root;
         }
 
         if (data < root.data)
             root.left = insert(root.left, data);
-        else
+        else if (data > root.data)
             root.right = insert(root.right, data);
 
         return root;

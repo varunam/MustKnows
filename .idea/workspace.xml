@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/RotateLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/InOrderWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/InsertionInLevelOrderBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/string/StringDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/RemoveLoopLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/RemoveLoopLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/RemoveLoopLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/linkedlist/RemoveLoopLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/WaterTrappingLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/InOrderWithoutRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/InOrderWithoutRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/varun/problemsolving/WaterTrappingLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,15 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/RemoveLoopLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/RotateLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/InsertionInLevelOrderBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#815#821#0" expanded="true" />
@@ -62,20 +55,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#1145#1146#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/InOrderWithoutRecursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="322">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/StringDivisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -84,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/src/varun/bst/BstFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -93,42 +115,10 @@
         <entry file="file://$PROJECT_DIR$/src/varun/bst/BstUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="246">
-              <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+              <caret line="65" column="53" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
               <folding>
                 <element signature="e#164#165#0" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindCenterOfLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindLoopInLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/ArrangeStudents.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/StringPermutations.java" />
         <option value="$PROJECT_DIR$/src/trees/Main.java" />
         <option value="$PROJECT_DIR$/src/problemsolving/NumberAsArray.java" />
         <option value="$PROJECT_DIR$/src/algorithms/Fibonacci.java" />
@@ -209,8 +196,11 @@
         <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/InsertionInLevelOrderBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/DeletionInBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/InOrderWithoutRecursion.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/string/StringDivisor.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -262,6 +252,30 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="varun" type="462c0819:PsiDirectoryNode" />
               <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="varun" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="varun" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="varun" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
               <item name="trees" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,13 +317,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InOrderWithoutRecursion">
-    <configuration name="AddOneToLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.linkedlist.AddOneToLinkedList" />
+  <component name="RunManager" selected="Application.DeleteNodeBinarySearchTree">
+    <configuration name="DeleteNodeBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.trees.DeleteNodeBinarySearchTree" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="varun.problemsolving.linkedlist.*" />
+          <option name="PATTERN" value="varun.problemsolving.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveLoopLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.linkedlist.RemoveLoopLinkedList" />
+    <configuration name="MaxSubSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.arrays.MaxSubSquare" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="varun.problemsolving.linkedlist.*" />
+          <option name="PATTERN" value="varun.problemsolving.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.linkedlist.RotateLinkedList" />
+    <configuration name="StringDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varun.problemsolving.string.StringDivisor" />
       <module name="MustKnows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="varun.problemsolving.linkedlist.*" />
+          <option name="PATTERN" value="varun.problemsolving.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,19 +384,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddOneToLinkedList" />
-      <item itemvalue="Application.RemoveLoopLinkedList" />
-      <item itemvalue="Application.RotateLinkedList" />
       <item itemvalue="Application.InsertionInLevelOrderBinaryTree" />
       <item itemvalue="Application.InOrderWithoutRecursion" />
+      <item itemvalue="Application.StringDivisor" />
+      <item itemvalue="Application.MaxSubSquare" />
+      <item itemvalue="Application.DeleteNodeBinarySearchTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteNodeBinarySearchTree" />
+        <item itemvalue="Application.StringDivisor" />
+        <item itemvalue="Application.MaxSubSquare" />
         <item itemvalue="Application.InOrderWithoutRecursion" />
         <item itemvalue="Application.InsertionInLevelOrderBinaryTree" />
-        <item itemvalue="Application.RotateLinkedList" />
-        <item itemvalue="Application.RemoveLoopLinkedList" />
-        <item itemvalue="Application.AddOneToLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -420,12 +434,12 @@
       <workItem from="1557832542666" duration="7994000" />
       <workItem from="1557897086826" duration="9399000" />
       <workItem from="1557981342424" duration="2683000" />
-      <workItem from="1557986488025" duration="10033000" />
+      <workItem from="1557986488025" duration="15613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61456000" />
+    <option name="totallyTimeSpent" value="67036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -440,12 +454,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32772276" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.27623764" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.22673267" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.30891088" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.3759036" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.3237624" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32772276" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
@@ -597,11 +611,22 @@
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>t.substring(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>resultMap.get(complement)</expression-string>
         <language-id>JAVA</language-id>
@@ -625,21 +650,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/varun/linkedlists/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java" />
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/varun/algorithms/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -772,13 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/WaterTrappingLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -969,18 +972,7 @@
     <entry file="file://$PROJECT_DIR$/src/varun/bst/BstFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/bst/BstUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -998,7 +990,7 @@
     <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/InsertionInLevelOrderBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#815#821#0" expanded="true" />
@@ -1006,20 +998,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/InOrderWithoutRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="322">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/MaxSubSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/misc/WaterTrappingLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/StringDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/bst/BstUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="65" column="53" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
           <folding>
-            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/InOrderWithoutRecursion.java">
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/DeleteNodeBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
         </state>
       </provider>
     </entry>
