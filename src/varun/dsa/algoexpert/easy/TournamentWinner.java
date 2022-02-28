@@ -32,6 +32,11 @@ import java.util.HashMap;
  * results = [0,0,1]
  * Sample Output: Python
  * <p>
+ * <p>
+ * Time Complexity:
+ * O(n) -> Time Complexity where n is the number of competitions.
+ * O(k) -> Space complexity where k is the number of teams.
+ * <p>
  * Problem Link: https://www.algoexpert.io/questions/Tournament%20Winner
  */
 public class TournamentWinner {
