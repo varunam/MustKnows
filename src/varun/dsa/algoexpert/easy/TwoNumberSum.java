@@ -32,7 +32,7 @@ public class TwoNumberSum {
         System.out.println("Initialising...");
         int[] result = getTargetSum(array, targetSum);
         System.out.println("Printing result...");
-        Utils.printArray(result);
+        Utils.print(result);
     }
 
     private static int[] getTargetSum(int[] array, int targetSum) {

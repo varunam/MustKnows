@@ -26,10 +26,10 @@ public class SortedSquareArray {
         //int[] input = new int[]{-7, -6, -3, 4, 6};
         int[] input = new int[]{-17, -16, 0, 2, 16};
         System.out.println("<--Input-->");
-        Utils.printArray(input);
+        Utils.print(input);
         int[] result = getSortedSquareArray(input);
         System.out.println("<--Output-->");
-        Utils.printArray(result);
+        Utils.print(result);
     }
 
     private static int[] getSortedSquareArray(int[] input) {

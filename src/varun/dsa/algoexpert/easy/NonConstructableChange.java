@@ -21,7 +21,7 @@ public class NonConstructableChange {
         //int[] input = new int[]{5, 7, 1, 1, 2, 3, 20, 42};
         int[] input = new int[]{1, 5, 1, 1, 1, 10, 15, 20, 100};
         System.out.println("<--Input-->");
-        Utils.printArray(input);
+        Utils.print(input);
         int result = getNonConstructableChange(input);
         System.out.println("<--Output-->");
         System.out.println("Non Constructable Change: " + result);

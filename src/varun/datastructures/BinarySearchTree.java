@@ -1,9 +1,18 @@
 package varun.datastructures;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Implementation of Binary Search Tree
  */
 public class BinarySearchTree {
+
+    public BinarySearchTree(int[] inputArray) {
+        for (int value : inputArray) {
+            insert(value);
+        }
+    }
 
     private Node root = null;
 
@@ -95,5 +104,29 @@ public class BinarySearchTree {
         }
 
         return closest;
+    }
+
+    /**
+     * Problem from {@link varun.dsa.algoexpert.easy.BstBranchSums}
+     *
+     * @return sums array.
+     */
+    public List<Integer> getBranchSums() {
+        ArrayList<Integer> result = new ArrayList<>();
+        getBranchSums(root, result, 0);
+        return result;
+    }
+
+    private void getBranchSums(Node root, ArrayList<Integer> result, int sum) {
+        if (root == null) {
+            return;
+        }
+
+        if (root.left == null && root.right == null) {
+            result.add(sum + root.value);
+            return;
+        }
+        getBranchSums(root.left, result, sum + root.value);
+        getBranchSums(root.right, result, sum + root.value);
     }
 }

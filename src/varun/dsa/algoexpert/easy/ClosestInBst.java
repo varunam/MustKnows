@@ -19,7 +19,7 @@ import varun.datastructures.BinarySearchTree;
  *       /  \
  *      5   15
  *     / \  / \
- *    2  3 13 22
+ *    2  5 13 22
  *   /      \
  *  1       14
  * target = 12
@@ -33,11 +33,8 @@ import varun.datastructures.BinarySearchTree;
 public class ClosestInBst {
 
     public static void main(String[] args) {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
         int[] inputValues = new int[]{10, 5, 5, 2, 1, 15, 13, 22, 14};
-        for (int value : inputValues) {
-            binarySearchTree.insert(value);
-        }
+        BinarySearchTree binarySearchTree = new BinarySearchTree(inputValues);
         System.out.println("<-- Input Tree In-Order Traversal -->");
         binarySearchTree.printInOrder();
         System.out.println("");

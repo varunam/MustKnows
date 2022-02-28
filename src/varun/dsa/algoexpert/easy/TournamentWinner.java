@@ -52,8 +52,8 @@ public class TournamentWinner {
         int[] results = new int[]{1, 0, 0, 1, 0};
 
         System.out.println("<--Input-->");
-        Utils.printArray(input);
-        Utils.printArray(results);
+        Utils.print(input);
+        Utils.print(results);
         String result = getTournamentWinner(input, results);
         System.out.println("");
         System.out.println("<--Output-->");
