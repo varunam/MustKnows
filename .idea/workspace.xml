@@ -2,76 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eda6540-ffbd-4f6d-9525-43ee2edd840d" name="Default" comment="Created proper package structure inside dsa.">
-      <change afterPath="$PROJECT_DIR$/src/varun/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/dsa/algoexpert/easy/TwoNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varun/dsa/algoexpert/easy/ValidateSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/META-INF/MustKnows.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/QuadraticEquation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/searching/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/searching/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/sorting/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/sorting/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/sorting/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/algorithms/sorting/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/bst/BstFunctions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/bst/BstUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/bst/BstUtils$S.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/bst/BstUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/bst/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/linkedlists/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/linkedlists/LinkedListOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/linkedlists/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/WaterTrappingLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/ArrayRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/FindSocksPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/HourGlass2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/IndexOfTwoNumbersToTarget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/JumpingOnTheClouds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/NumberAsArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/SubArrayZeroSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/SubsetSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/arrays/WaterTrappingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/CancelOutElementsSumToZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteMiddleOfLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FindCenterOfLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FindLoopInLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FindLoopInLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FlattenLinkedList$LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FlattenLinkedList$LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/FlattenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/PalindromeLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListInGivenSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListWithStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/ReverseLinkedListWithoutStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/linkedlist/SumOfNodesBetweenZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/stack/SpecialStackImplementation$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/stack/SpecialStackImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/CheckPermutationOfEachOther.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/PalindromeStringWithBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/PalindromeStringWithoutBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/StringPermutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/string/StringRoundRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/ArrangeStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/MaxWidthInTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/MaxWidthInTree$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/MaxWidthInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/VerticalSumTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/VerticalSumTree$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/problemsolving/trees/VerticalSumTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/stack/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/stack/StackUsingLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MustKnows/varun/stack/StackUsingLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/varun/dsa/common/arrays/WaterTrappingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varun/dsa/common/arrays/WaterTrappingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/udemy/ArrayImplementation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/udemy/BasicArraySearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/udemy/DoublyLinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/udemy/LinkedListExtensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/udemy/LinkedListIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/udemy/SingleLinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/FibSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/PartitionPositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/PatternRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/RecursionDigitSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/RecursionFactorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/RecursionFibonacci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arun/upgrad/Shapes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,63 +59,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/algorithms/sorting/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/stack/Stack.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackUsingLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/WaterUnitsCount.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/WaterTrappingArray.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/WaterTrappingLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/FindLoopInLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/searching/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/StringRoundRotation.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/TreeVerticalSum.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/VerticalSumTree.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/MaxWidthInBST.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/MaxWidthInTree.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/ArrangeStudents.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/StringPermutations.java" />
-        <option value="$PROJECT_DIR$/src/trees/Main.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/NumberAsArray.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/NumberAsArray.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/string/StringPermutations.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/WaterTrappingArray.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/trees/MaxWidthInTree.java" />
-        <option value="$PROJECT_DIR$/src/trees/bst/BstUtils.java" />
-        <option value="$PROJECT_DIR$/src/trees/BstFunctions.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/IndexOfTwoNumbersToTarget.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/FindSocksPairs.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java" />
-        <option value="$PROJECT_DIR$/src/trees/bst/BstFunctions.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/string/CheckPermutationOfEachOther.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/HourGlass2DArray.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/ArrayRotation.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/JumpingOnTheClouds.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/stack/SpecialStackImplementation.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/SubArrayZeroSum.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/FlattenLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/FindLoopInLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/FindCenterOfLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/CancelOutElementsSumToZero.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/arrays/SubsetSum.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithStack.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/SumOfNodesBetweenZero.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/linkedlist/PalindromeLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/problemsolving/string/PalindromeStringWithoutBuilder.java" />
-        <option value="$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithoutBuilder.java" />
-      </list>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -178,89 +68,23 @@
   </component>
   <component name="ProjectId" id="25jN3Ai8vZRV80UtYl6QkqWg5f5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="varun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="varun" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="varun" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsolving" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustKnows" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustKnows" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="varun" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/varun.am/IdeaProjects/MustKnows/src/stack/StackUsingLinkedList.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/arun" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithms.sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidateSequence">
-    <configuration name="PalindromeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="varun.dsa.common.linkedlist.PalindromeLinkedList" />
-      <module name="MustKnows" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="varun.dsa.common.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PatternRecursion">
     <configuration name="PalindromeStringWithBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="varun.dsa.common.string.PalindromeStringWithBuilder" />
       <module name="MustKnows" />
@@ -280,6 +104,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="varun.dsa.common.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arun.upgrad.PatternRecursion" />
+      <module name="MustKnows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arun.upgrad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PalindromeLinkedList" />
       <item itemvalue="Application.PalindromeStringWithoutBuilder" />
       <item itemvalue="Application.PalindromeStringWithBuilder" />
       <item itemvalue="Application.TwoNumberSum" />
       <item itemvalue="Application.ValidateSequence" />
+      <item itemvalue="Application.PatternRecursion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternRecursion" />
         <item itemvalue="Application.ValidateSequence" />
         <item itemvalue="Application.TwoNumberSum" />
         <item itemvalue="Application.PalindromeStringWithBuilder" />
         <item itemvalue="Application.PalindromeStringWithoutBuilder" />
-        <item itemvalue="Application.PalindromeLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -387,44 +224,6 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="54175000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29765707" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32772276" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.27623764" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.30891088" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.3237624" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32848486" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32970297" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32960597" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -438,6 +237,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cleaned up and refactored for easy access." />
@@ -573,384 +373,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/searching/LinearSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/bst/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/searching/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/sorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/QuadraticEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/linkedlists/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/linkedlists/LinkedListOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4140">
-          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/linkedlists/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/heap/HeapImplementation.java" />
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/sorting/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/sorting/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/algorithms/sorting/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="35" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/ArrayRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/FindSocksPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/HourGlass2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="9" column="146" selection-start-line="9" selection-start-column="146" selection-end-line="9" selection-end-column="146" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/IndexOfTwoNumbersToTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/JumpingOnTheClouds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/NumberAsArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/WaterTrappingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="85" column="25" lean-forward="true" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/stack/SpecialStackImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/StringRoundRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/ArrangeStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/MaxWidthInTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
-          <folding>
-            <element signature="method#insert#0;class#Tree#0;class#MaxWidthInTree#0" />
-            <element signature="method#printInOrder#0;class#Tree#0;class#MaxWidthInTree#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/trees/VerticalSumTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/WaterTrappingLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/stack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/bst/BstFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/bst/BstUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/SubArrayZeroSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/StringPermutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindCenterOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FlattenLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/CancelOutElementsSumToZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/arrays/SubsetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteMiddleOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/SumOfNodesBetweenZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListWithStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListInGivenSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/FindLoopInLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="20" selection-start-line="5" selection-start-column="8" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/ReverseLinkedListWithoutStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/DeleteNodesHavingGreaterValueOnRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/NthNodeFromEndOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/linkedlist/PalindromeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/CheckPermutationOfEachOther.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/varun/problemsolving/string/PalindromeStringWithoutBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
