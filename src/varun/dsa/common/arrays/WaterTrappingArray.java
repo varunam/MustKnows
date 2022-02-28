@@ -1,7 +1,5 @@
 package varun.dsa.common.arrays;
 
-import varun.stack.StackUsingLinkedList;
-
 /**
  * the problem is that there will be a sequence of buildings with N floors without any gap in between.
  * whenever it rains, water gets accumulated in the empty regions.
@@ -18,8 +16,6 @@ import varun.stack.StackUsingLinkedList;
  */
 
 public class WaterTrappingArray {
-
-    StackUsingLinkedList stack = new StackUsingLinkedList();
 
     public static void main(String[] args) {
 
