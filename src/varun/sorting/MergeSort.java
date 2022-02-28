@@ -20,7 +20,7 @@ public class MergeSort {
         System.out.println("");
     }
 
-    private static int[] mergeSort(int[] a) {
+    public static int[] mergeSort(int[] a) {
         int length = a.length;
         int leftLength = a.length / 2;
         int[] leftArray = new int[leftLength];
