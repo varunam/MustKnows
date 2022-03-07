@@ -18,7 +18,7 @@ public class BinaryTree {
     public class Node {
         public Node left = null;
         public Node right = null;
-        int value;
+        public int value;
 
         Node(int value) {
             this.value = value;
