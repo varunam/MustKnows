@@ -9,6 +9,25 @@ package varun.dsa.algoexpert.medium;
  * Write a function that returns the youngest common ancestor to the two descendants,
  * Note that a descendant is considered its own ancestor. So in the simple ancestral tree below, the youngest common
  * ancestor to nodes A and B is node A.
+ *
+ * Sample Input:
+ * topAncestor: A
+ * DescendantOne: E
+ * DescendantTwo: I
+ * Tree Structure: A
+ *               /   \
+ *              B     C
+ *            / \    / \
+ *           D   E  F   G
+ *         /  \
+ *        H    I
+ *
+ *  Sample Output: Node B
+ *
+ *  Time Complexity: O(h) where h is the depth of the tree.
+ *  Space Complexity: O(1)
+ *
+ *  Problem Link: https://www.algoexpert.io/questions/Youngest%20Common%20Ancestor
  */
 public class YoungestCommonAncestor {
 
