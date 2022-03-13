@@ -1,4 +1,4 @@
-package varun.dsa.algoexpert.hard;
+package varun.dsa.algoexpert.veryhard;
 
 import varun.Utils;
 

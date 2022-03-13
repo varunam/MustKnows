@@ -49,9 +49,9 @@ public class Utils {
         }
     }
 
-    public static void print(List<Integer> branchSums) {
+    public static <T> void print(List<T> branchSums) {
         System.out.print("[ ");
-        for(Integer value: branchSums) {
+        for(T value: branchSums) {
             System.out.print(value + " ");
         }
         System.out.println("]");
