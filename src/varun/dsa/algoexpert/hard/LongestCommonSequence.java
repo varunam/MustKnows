@@ -5,6 +5,9 @@ import varun.Utils;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * [ALERT] - INCOMPLETE SOLUTION. DON'T STUDY
+ */
 public class LongestCommonSequence {
 
     public static void main(String[] args) {

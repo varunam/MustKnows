@@ -18,7 +18,7 @@ import java.util.List;
  * array = 17, 6, 4, -1, 1, 2]
  * targetSum = 16
  * Sample Output
- * [[7, 6, 4, -1), 17, 6, 1, 2]] // the quadruplets could be ordered differently
+ * [[7, 6, 4, -1), [7, 6, 1, 2]] // the quadruplets could be ordered differently
  * <p>
  * Time Complexity: Average - O(n2), Worst - O(n3)
  * Space Complexity: O(n2) because mostly we will end up storing all sums in hashmap which is n2 pairs.

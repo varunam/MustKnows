@@ -5,6 +5,9 @@ import varun.Utils;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * ALERT - NON-WORKING SOLUTION FOR INPUT [-1,1]. DON'T REFER.
+ */
 public class MinimumSumIncreasingSequence {
 
     public static void main(String[] args) {

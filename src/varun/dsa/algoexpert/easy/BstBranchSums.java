@@ -20,7 +20,7 @@ import java.util.List;
  *  *    2  5 13 22
  *  *   /      \
  *  *  1       14
- * Sample Output = [15,16,18,10,11]
+ * Sample Output = [ 18 20 52 47 ]
  * 15 = 1+2+4+8
  * 16 = 1+2+4+9 and so on.
  *

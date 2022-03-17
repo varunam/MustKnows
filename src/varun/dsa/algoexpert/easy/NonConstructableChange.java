@@ -14,12 +14,14 @@ import varun.sorting.MergeSort;
  * <p>
  * Sample Input Coins: [5,7,1,1,2,3,22]
  * Output: 20
+ *
+ * Problem Link: https://www.algoexpert.io/questions/Non-Constructible%20Change
  */
 public class NonConstructableChange {
 
     public static void main(String[] args) {
-        //int[] input = new int[]{5, 7, 1, 1, 2, 3, 20, 42};
-        int[] input = new int[]{1, 5, 1, 1, 1, 10, 15, 20, 100};
+        int[] input = new int[]{5, 7, 1, 1, 2, 3, 42};
+        //int[] input = new int[]{1, 5, 1, 1, 1, 10, 15, 20, 100};
         System.out.println("<--Input-->");
         Utils.print(input);
         int result = getNonConstructableChange(input);
