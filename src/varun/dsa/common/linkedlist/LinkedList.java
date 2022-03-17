@@ -2,10 +2,10 @@ package varun.dsa.common.linkedlist;
 
 public class LinkedList {
 
-    class Node {
+    public static class Node {
 
-        int data;
-        Node next;
+        public int data;
+        public Node next;
 
         public Node(int data) {
             this.data = data;
@@ -21,7 +21,7 @@ public class LinkedList {
         }
     }
 
-    Node head;
+    public Node head;
 
     /* Inserts a new Node at front of the list. */
     public void push(int new_data) {

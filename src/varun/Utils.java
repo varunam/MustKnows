@@ -13,6 +13,15 @@ public class Utils {
         System.out.println("]");
     }
 
+    public static void print(Integer[] array) {
+
+        System.out.print("[ ");
+        for (int value : array) {
+            System.out.print(value + " ");
+        }
+        System.out.println("]");
+    }
+
     public static void print(String[] array) {
 
         System.out.print("[ ");
