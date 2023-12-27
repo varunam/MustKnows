@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.learnkannada.com.learnkannadakannadakali",
+    "sha256_cert_fingerprints":
+    ["D2:B5:C6:56:92:78:3F:93:00:2B:2D:3A:23:EB:81:6A:28:84:C3:C7:B2:1B:67:B4:AB:2E:04:6B:A4:DD:68:FA"]
+  }
+}]
